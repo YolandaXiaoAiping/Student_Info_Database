@@ -1,0 +1,4 @@
+driver=org.postgresql.Driver
+url=jdbc:postgresql://localhost:5432/csc343h-c5zouton
+user=c5zouton
+password=ZOUtong1993101
